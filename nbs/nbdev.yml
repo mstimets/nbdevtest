@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdevtest"
+  site-url: "https://mstimets.github.io/nbdevtest"
+  description: "Test nbdev"
+  repo-branch: main
+  repo-url: "https://github.com/mstimets/nbdevtest"
